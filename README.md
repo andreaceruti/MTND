@@ -9,7 +9,7 @@ result can also be U if we haven't accepted yet.
 Input file example: language = ww
 
 tr
-0 a c R 1
+0 a c R 1\n
 0 b c R 2
 1 a a R 1
 1 a d L 3
